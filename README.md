@@ -1,12 +1,13 @@
-## ml-life-resources
+## ML Life Resources
 Summary of what articles/videos/courses I study
 
 Started recording these activities after I was comfortable with machine learning
 
 ### Computer Vision
 
-- [x] https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1
-- [x] https://towardsdatascience.com/what-is-transposed-convolutional-layer-40e5e6e31c11
+- [x] [Intuitive understanding of convolution for deep learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+- [x] [What is transposed convolution](https://towardsdatascience.com/what-is-transposed-convolutional-layer-40e5e6e31c11)
+- [x] [Understanding 2D dilated convolutions](https://towardsdatascience.com/understanding-2d-dilated-convolution-operation-with-examples-in-numpy-and-tensorflow-with-d376b3972b25)
 
 ### Hyperparameter Optimization
 
