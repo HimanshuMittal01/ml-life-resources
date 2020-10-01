@@ -3,6 +3,11 @@ Summary of what articles/videos/courses I study
 
 Started recording these activities after I was comfortable with machine learning
 
+### Natural Language Processing
+
+#### Conversational AI
+- [ ] [Rasa Masterclass](https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc)
+
 ### Computer Vision
 
 - [x] [Intuitive understanding of convolution for deep learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
