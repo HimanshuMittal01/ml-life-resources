@@ -3,6 +3,11 @@ Summary of what articles/videos/courses I study
 
 Started recording these activities after I was comfortable with machine learning
 
+### Deep Learning
+
+#### Model selection
+- [x] [Small Data, Big Decisions: Model Selection in the Small-Data Regime](https://arxiv.org/abs/2009.12583v1)
+
 ### Natural Language Processing
 
 #### Conversational AI
