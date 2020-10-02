@@ -11,7 +11,8 @@ Started recording these activities after I was comfortable with machine learning
 ### Natural Language Processing
 
 #### Conversational AI
-- [ ] [Rasa Masterclass](https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc)
+- [ ] Youtube playlist: [Rasa Masterclass](https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc)
+- [ ] Paper: [Pchatbot: A Large-Scale Dataset for Personalized Chatbot](https://arxiv.org/abs/2009.13284v1)
 
 ### Computer Vision
 
@@ -24,6 +25,6 @@ Started recording these activities after I was comfortable with machine learning
 - [x] [End-to-End: Automated Hyperparameter Tuning For Deep Neural Networks](https://www.youtube.com/watch?v=4MK_OJJ82YI)
 - [x] [Hyperparameter Optimization: This Tutorial Is All You Need](https://www.youtube.com/watch?v=5nYqK-HaoKY)
 
-## Questions/Tests
+### Questions/Tests
 
 - [ ] [Machine Learning Engineering Guide](https://www.confetti.ai/curriculum)
