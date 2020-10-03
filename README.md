@@ -5,8 +5,11 @@ Started recording these activities after I was comfortable with machine learning
 
 ### Machine Learning
 
+#### Mathematics
+- [x] Article: [Covariance: definition, formula and practical examples](https://corporatefinanceinstitute.com/resources/knowledge/finance/covariance)
+
 #### Feature engineering
-- [x] Article: [Think twice before dropping that first one-hot encoded column]https://inmachineswetrust.com/posts/drop-first-columns/
+- [x] Article: [Think twice before dropping that first one-hot encoded column](https://inmachineswetrust.com/posts/drop-first-columns/)
 
 ### Deep Learning
 
