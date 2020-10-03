@@ -11,6 +11,9 @@ Started recording these activities after I was comfortable with machine learning
 #### Feature engineering
 - [x] Article: [Think twice before dropping that first one-hot encoded column](https://inmachineswetrust.com/posts/drop-first-columns/)
 
+#### Algorithms
+- [ ] Paper: [Using KNN to predict student performance in an online course environment](https://core.ac.uk/download/pdf/14920734.pdf)
+
 ### Deep Learning
 
 #### Model selection
@@ -39,3 +42,4 @@ Started recording these activities after I was comfortable with machine learning
 ### Questions/Tests
 
 - [ ] Website: [Machine Learning Engineering Guide](https://www.confetti.ai/curriculum)
+- [ ] Blog: [30 questions KNN for data scientist](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
