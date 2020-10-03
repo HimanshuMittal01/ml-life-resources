@@ -3,6 +3,11 @@ Summary of what articles/videos/courses I study
 
 Started recording these activities after I was comfortable with machine learning
 
+### Machine Learning
+
+#### Feature engineering
+- [x] Article: [Think twice before dropping that first one-hot encoded column]https://inmachineswetrust.com/posts/drop-first-columns/
+
 ### Deep Learning
 
 #### Model selection
@@ -19,6 +24,9 @@ Started recording these activities after I was comfortable with machine learning
 - [x] Article: [Intuitive understanding of convolution for deep learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 - [x] Article: [What is transposed convolution](https://towardsdatascience.com/what-is-transposed-convolutional-layer-40e5e6e31c11)
 - [x] Article: [Understanding 2D dilated convolutions](https://towardsdatascience.com/understanding-2d-dilated-convolution-operation-with-examples-in-numpy-and-tensorflow-with-d376b3972b25)
+
+#### Object detection
+- [x] Article [Object Detection and Tracking in 2020](https://blog.netcetera.com/object-detection-and-tracking-in-2020-f10fb6ff9af3)
 
 ### Hyperparameter Optimization
 
