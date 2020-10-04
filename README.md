@@ -15,6 +15,7 @@ Started recording these activities after I was comfortable with machine learning
 - [ ] Paper: [Using KNN to predict student performance in an online course environment](https://core.ac.uk/download/pdf/14920734.pdf)
 - [x] Blog: [Voting classifier](https://medium.com/@sanchitamangale12/voting-classifier-1be10db6d7a5)
 - [x] Blog: [Random forest and decision tree from scratch](https://towardsdatascience.com/random-forests-and-decision-trees-from-scratch-in-python-3e4fa5ae4249)
+- [x] Blog: [Adaboost classifier from scratch](https://medium.com/analytics-vidhya/implementing-an-adaboost-classifier-from-scratch-e30ef86e9f1b)
 
 
 ### Deep Learning
@@ -42,6 +43,7 @@ Started recording these activities after I was comfortable with machine learning
 - [x] Video: [End-to-End: Automated Hyperparameter Tuning For Deep Neural Networks](https://www.youtube.com/watch?v=4MK_OJJ82YI)
 - [x] Video: [Hyperparameter Optimization: This Tutorial Is All You Need](https://www.youtube.com/watch?v=5nYqK-HaoKY)
 - [x] Article: [Tuning ML Hyperparameters - LASSO and Ridge Examples](https://alfurka.github.io/2018-11-18-grid-search/)
+
 ### Questions/Tests
 
 - [ ] Website: [Machine Learning Engineering Guide](https://www.confetti.ai/curriculum)
