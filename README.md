@@ -13,6 +13,9 @@ Started recording these activities after I was comfortable with machine learning
 
 #### Algorithms
 - [ ] Paper: [Using KNN to predict student performance in an online course environment](https://core.ac.uk/download/pdf/14920734.pdf)
+- [x] Blog: [Voting classifier](https://medium.com/@sanchitamangale12/voting-classifier-1be10db6d7a5)
+- [x] Blog: [Random forest and decision tree from scratch](https://towardsdatascience.com/random-forests-and-decision-trees-from-scratch-in-python-3e4fa5ae4249)
+
 
 ### Deep Learning
 
@@ -27,9 +30,9 @@ Started recording these activities after I was comfortable with machine learning
 
 ### Computer Vision
 
-- [x] Article: [Intuitive understanding of convolution for deep learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
-- [x] Article: [What is transposed convolution](https://towardsdatascience.com/what-is-transposed-convolutional-layer-40e5e6e31c11)
-- [x] Article: [Understanding 2D dilated convolutions](https://towardsdatascience.com/understanding-2d-dilated-convolution-operation-with-examples-in-numpy-and-tensorflow-with-d376b3972b25)
+- [x] Blog: [Intuitive understanding of convolution for deep learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+- [x] Blog: [What is transposed convolution](https://towardsdatascience.com/what-is-transposed-convolutional-layer-40e5e6e31c11)
+- [x] Blog: [Understanding 2D dilated convolutions](https://towardsdatascience.com/understanding-2d-dilated-convolution-operation-with-examples-in-numpy-and-tensorflow-with-d376b3972b25)
 
 #### Object detection
 - [x] Article [Object Detection and Tracking in 2020](https://blog.netcetera.com/object-detection-and-tracking-in-2020-f10fb6ff9af3)
