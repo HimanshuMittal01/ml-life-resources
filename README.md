@@ -11,6 +11,10 @@ Started recording these activities after I was comfortable with machine learning
 #### Feature engineering
 - [x] Article: [Think twice before dropping that first one-hot encoded column](https://inmachineswetrust.com/posts/drop-first-columns/)
 
+#### Visualization
+- [x] Blog: [Dive deep into principal component analysis](https://medium.com/analytics-vidhya/principal-component-analysis-pca-dive-deep-411db0f9ee10)
+- [ ] Article: [The Ultimate Guide to 12 Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
+
 #### Algorithms
 - [ ] Paper: [Using KNN to predict student performance in an online course environment](https://core.ac.uk/download/pdf/14920734.pdf)
 - [x] Blog: [Voting classifier](https://medium.com/@sanchitamangale12/voting-classifier-1be10db6d7a5)
