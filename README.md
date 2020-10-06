@@ -29,6 +29,9 @@ Started recording these activities after I was comfortable with machine learning
 
 ### Natural Language Processing
 
+### Course
+- [ ] Course: [NLP Course | For you](https://lena-voila.github.io/nlp_course.html)
+
 #### Conversational AI
 - [ ] Playlist: [Rasa Masterclass](https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc)
 - [ ] Paper: [Pchatbot: A Large-Scale Dataset for Personalized Chatbot](https://arxiv.org/abs/2009.13284v1)
