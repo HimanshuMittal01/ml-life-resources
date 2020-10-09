@@ -20,6 +20,7 @@ Started recording these activities after I was comfortable with machine learning
 - [x] Blog: [Voting classifier](https://medium.com/@sanchitamangale12/voting-classifier-1be10db6d7a5)
 - [x] Blog: [Random forest and decision tree from scratch](https://towardsdatascience.com/random-forests-and-decision-trees-from-scratch-in-python-3e4fa5ae4249)
 - [x] Blog: [Adaboost classifier from scratch](https://medium.com/analytics-vidhya/implementing-an-adaboost-classifier-from-scratch-e30ef86e9f1b)
+- [x] Article: [KD Tree](http://www.wikiwand.com/en/K-d_tree)
 
 
 ### Deep Learning
