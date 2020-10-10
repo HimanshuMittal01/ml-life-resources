@@ -12,6 +12,7 @@ Started recording these activities after I was comfortable with machine learning
 
 **Feature engineering**
 - [x] Article: [Think twice before dropping that first one-hot encoded column](https://inmachineswetrust.com/posts/drop-first-columns/)
+- [x] Video: [Median absolute deviation](https://www.youtube.com/watch?v=Kx85fmXLmx4&ab_channel=AppliedAICourse)
 
 **Visualization**
 - [x] Blog: [Dive deep into principal component analysis](https://medium.com/analytics-vidhya/principal-component-analysis-pca-dive-deep-411db0f9ee10)
@@ -73,6 +74,14 @@ Started recording these activities after I was comfortable with machine learning
 - [x] Video: [End-to-End: Automated Hyperparameter Tuning For Deep Neural Networks](https://www.youtube.com/watch?v=4MK_OJJ82YI)
 - [x] Video: [Hyperparameter Optimization: This Tutorial Is All You Need](https://www.youtube.com/watch?v=5nYqK-HaoKY)
 - [x] Article: [Tuning ML Hyperparameters - LASSO and Ridge Examples](https://alfurka.github.io/2018-11-18-grid-search/)
+
+</details>
+
+### Time series
+<details>
+    <summary> Click here to expand </summary>
+
+- [x] Blog: [Anomaly detection using median absolute deviation](https://medium.com/swlh/anomaly-detection-with-median-absolute-deviation-c609e1c09262)
 
 </details>
 
