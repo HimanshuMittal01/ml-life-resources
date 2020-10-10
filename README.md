@@ -22,6 +22,8 @@ Started recording these activities after I was comfortable with machine learning
 - [x] Blog: [Adaboost classifier from scratch](https://medium.com/analytics-vidhya/implementing-an-adaboost-classifier-from-scratch-e30ef86e9f1b)
 - [x] Article: [KD Tree](http://www.wikiwand.com/en/K-d_tree)
 
+#### Evaluation
+- [x] Blog: [F1, Accuracy, ROC-AUC and PR-AUC: Which to choose](https://neptune.ai/blog/f1-score-accuracy-roc-auc-pr-auc)
 
 ### Deep Learning
 
