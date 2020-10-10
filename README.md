@@ -89,3 +89,4 @@ Started recording these activities after I was comfortable with machine learning
 
 - [ ] Website: [Machine Learning Engineering Guide](https://www.confetti.ai/curriculum)
 - [x] Blog: [30 questions KNN for data scientist](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
+- [ ] Blog: [40 interview questions asked at startup in ML](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
