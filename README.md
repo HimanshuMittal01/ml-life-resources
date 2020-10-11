@@ -63,7 +63,10 @@ Started recording these activities after I was comfortable with machine learning
 - [x] Blog: [Understanding 2D dilated convolutions](https://towardsdatascience.com/understanding-2d-dilated-convolution-operation-with-examples-in-numpy-and-tensorflow-with-d376b3972b25)
 
 **Object detection**
-- [x] Article [Object Detection and Tracking in 2020](https://blog.netcetera.com/object-detection-and-tracking-in-2020-f10fb6ff9af3)
+- [x] Article: [Object Detection and Tracking in 2020](https://blog.netcetera.com/object-detection-and-tracking-in-2020-f10fb6ff9af3)
+
+**Video prediction**
+- [ ] Paper: [ST-ResNet](https://arxiv.org/pdf/1610.00081.pdf)
 
 </details>
 
