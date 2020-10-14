@@ -39,6 +39,9 @@ Started recording these activities after I was comfortable with machine learning
 **Model selection**
 - [x] Paper: [Small Data, Big Decisions: Model Selection in the Small-Data Regime](https://arxiv.org/abs/2009.12583v1)
 
+**Meta DL**
+- [ ] Paper: [Meta-Dataset: A dataset for datasets for learning to learn from few examples](https://arxiv.org/pdf/1903.03096.pdf)
+
 </details>
 
 ### Natural Language Processing
