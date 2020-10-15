@@ -24,6 +24,7 @@ Started recording these activities after I was comfortable with machine learning
 - [x] Blog: [Random forest and decision tree from scratch](https://towardsdatascience.com/random-forests-and-decision-trees-from-scratch-in-python-3e4fa5ae4249)
 - [x] Blog: [Adaboost classifier from scratch](https://medium.com/analytics-vidhya/implementing-an-adaboost-classifier-from-scratch-e30ef86e9f1b)
 - [x] Article: [KD Tree](http://www.wikiwand.com/en/K-d_tree)
+- [x] Article: [Locally weighted linear regression](https://www.geeksforgeeks.org/ml-locally-weighted-linear-regression/)
 
 **Evaluation**
 - [x] Blog: [F1, Accuracy, ROC-AUC and PR-AUC: Which to choose](https://neptune.ai/blog/f1-score-accuracy-roc-auc-pr-auc)
