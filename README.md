@@ -51,9 +51,6 @@ Started recording these activities after I was comfortable with machine learning
 <details>
     <summary> Click here to expand </summary>
 
-**Courses**
-- [ ] Course: [NLP Course | For you](https://lena-voila.github.io/nlp_course.html)
-
 **Conversational AI**
 - [ ] Playlist: [Rasa Masterclass](https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc)
 - [ ] Paper: [Pchatbot: A Large-Scale Dataset for Personalized Chatbot](https://arxiv.org/abs/2009.13284v1)
@@ -99,3 +96,8 @@ Started recording these activities after I was comfortable with machine learning
 - [ ] Website: [Machine Learning Engineering Guide](https://www.confetti.ai/curriculum)
 - [x] Blog: [30 questions KNN for data scientist](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
 - [ ] Blog: [40 interview questions asked at startup in ML](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
+
+### Courses
+
+- [ ] Course: [NLP Course | For you](https://lena-voila.github.io/nlp_course.html)
+- [ ] Course: [Stanford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
