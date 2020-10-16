@@ -26,6 +26,7 @@ Started recording these activities after I was comfortable with machine learning
 - [x] Article: [KD Tree](http://www.wikiwand.com/en/K-d_tree)
 - [x] Article: [Locally weighted linear regression](https://www.geeksforgeeks.org/ml-locally-weighted-linear-regression/)
 - [x] Blog: [Everything you need to know about decision trees](https://towardsdatascience.com/everything-you-need-to-know-about-decision-trees-8fcd68ecaa71)
+- [x] Blog: [Introduction to regression splines in python](https://www.analyticsvidhya.com/blog/2018/03/introduction-regression-splines-python-codes/)
 
 **Evaluation**
 - [x] Blog: [F1, Accuracy, ROC-AUC and PR-AUC: Which to choose](https://neptune.ai/blog/f1-score-accuracy-roc-auc-pr-auc)
