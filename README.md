@@ -80,6 +80,7 @@ Started recording these activities after I was comfortable with machine learning
 - [x] Video: [End-to-End: Automated Hyperparameter Tuning For Deep Neural Networks](https://www.youtube.com/watch?v=4MK_OJJ82YI)
 - [x] Video: [Hyperparameter Optimization: This Tutorial Is All You Need](https://www.youtube.com/watch?v=5nYqK-HaoKY)
 - [x] Article: [Tuning ML Hyperparameters - LASSO and Ridge Examples](https://alfurka.github.io/2018-11-18-grid-search/)
+- [x] Blog: [Complete guide to parameter tuning for GBM in python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
 
 </details>
 
