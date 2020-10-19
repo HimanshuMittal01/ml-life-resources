@@ -83,6 +83,7 @@ Started recording these activities after I was comfortable with machine learning
 - [x] Blog: [Complete guide to parameter tuning for GBM in python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
 - [x] Blog: [Adaboost ensemble in pytohn](https://machinelearningmastery.com/adaboost-ensemble-in-python/)
 </details>
+- [x] Blog: [Complete guide to parameter tuning xgboost](http://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 
 ### Time series
 <details>
