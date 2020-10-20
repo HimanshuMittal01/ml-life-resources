@@ -7,6 +7,8 @@ Started recording these activities after I was comfortable with machine learning
 <details>
     <summary> Click here to expand </summary>
 
+- [x] Article: [Clustering overview](https://developers.google.com/machine-learning/clustering/overview)
+
 **Mathematics**
 - [x] Article: [Covariance: definition, formula and practical examples](https://corporatefinanceinstitute.com/resources/knowledge/finance/covariance)
 
@@ -82,8 +84,9 @@ Started recording these activities after I was comfortable with machine learning
 - [x] Article: [Tuning ML Hyperparameters - LASSO and Ridge Examples](https://alfurka.github.io/2018-11-18-grid-search/)
 - [x] Blog: [Complete guide to parameter tuning for GBM in python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
 - [x] Blog: [Adaboost ensemble in pytohn](https://machinelearningmastery.com/adaboost-ensemble-in-python/)
-</details>
 - [x] Blog: [Complete guide to parameter tuning xgboost](http://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+
+</details>
 
 ### Time series
 <details>
@@ -96,7 +99,7 @@ Started recording these activities after I was comfortable with machine learning
 ### Questions/Tests
 
 - [ ] Website: [Machine Learning Engineering Guide](https://www.confetti.ai/curriculum)
-- [x] Blog: [30 questions KNN for data scientist](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
+- [ ] Blog: [30 questions KNN for data scientist](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
 - [ ] Blog: [40 interview questions asked at startup in ML](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
 
 ### Courses
