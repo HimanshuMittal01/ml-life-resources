@@ -78,6 +78,14 @@ Started recording these activities after I was comfortable with machine learning
 
 </details>
 
+### Reinforcement learning
+<details>
+    <summary> Click here to expand </summary>
+
+- [ ] Paper: [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643v2.pdf)
+
+</details>
+
 ### Hyperparameter Optimization
 <details>
     <summary> Click here to expand </summary>
