@@ -56,6 +56,9 @@ Started recording these activities after I was comfortable with machine learning
 <details>
     <summary> Click here to expand </summary>
 
+**Tokenization**
+- [x] Blog: [Tokenizers: How machines read](https://blog.floydhub.com/tokenization-nlp/)
+
 **Conversational AI**
 - [ ] Playlist: [Rasa Masterclass](https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc)
 - [x] Paper: [Pchatbot: A Large-Scale Dataset for Personalized Chatbot](https://arxiv.org/abs/2009.13284v1)
