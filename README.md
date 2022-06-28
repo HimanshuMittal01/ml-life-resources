@@ -43,6 +43,7 @@ Started recording these activities after I was comfortable with machine learning
 - [x] Blog: [Introduction to regression splines in python](https://www.analyticsvidhya.com/blog/2018/03/introduction-regression-splines-python-codes/)
 
 **Evaluation**
+- [x] Blog: [AUC ROC: In-depth](https://dyakonov.org/2017/07/28/auc-roc-%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C-%D0%BF%D0%BE%D0%B4-%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B9-%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA/)
 - [x] Blog: [F1, Accuracy, ROC-AUC and PR-AUC: Which to choose](https://neptune.ai/blog/f1-score-accuracy-roc-auc-pr-auc)
 - [x] Blog: [R-squared explained](https://towardsdatascience.com/statistics-for-machine-learning-r-squared-explained-425ddfebf667)
 - [x] Article: [Difference between R-squared and adjusted R-squared](https://www.analyticsvidhya.com/blog/2020/07/difference-between-r-squared-and-adjusted-r-squared/)
