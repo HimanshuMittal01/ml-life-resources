@@ -89,6 +89,9 @@ Started recording these activities after I was comfortable with machine learning
 **Object detection**
 - [x] Article: [Object Detection and Tracking in 2020](https://blog.netcetera.com/object-detection-and-tracking-in-2020-f10fb6ff9af3)
 
+**Object Segmentation**
+- [x] Paper: [ASPP (atrous spatial pyrmaid pooling)](https://arxiv.org/abs/1606.00915v2)
+
 **Video prediction**
 - [ ] Paper: [ST-ResNet](https://arxiv.org/pdf/1610.00081.pdf)
 
