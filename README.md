@@ -59,6 +59,7 @@ Started recording these activities after I was comfortable with machine learning
 
 **Optimization**
 - [x] Blog: [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
+- [x] Article: [Weight decay: Regularization technique](https://d2l.ai/chapter_multilayer-perceptrons/weight-decay.html)
 
 **Meta DL**
 - [ ] Paper: [Meta-Dataset: A dataset for datasets for learning to learn from few examples](https://arxiv.org/pdf/1903.03096.pdf)
