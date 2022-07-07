@@ -85,6 +85,7 @@ Started recording these activities after I was comfortable with machine learning
 - [x] Blog: [Intuitive understanding of convolution for deep learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 - [x] Blog: [What is transposed convolution](https://towardsdatascience.com/what-is-transposed-convolutional-layer-40e5e6e31c11)
 - [x] Blog: [Understanding 2D dilated convolutions](https://towardsdatascience.com/understanding-2d-dilated-convolution-operation-with-examples-in-numpy-and-tensorflow-with-d376b3972b25)
+- [x] Blog: [Understanding grouped channels in filters in convolution layer](https://iksinc.online/2020/05/10/groups-parameter-of-the-convolution-layer/)
 
 **Object detection**
 - [x] Article: [Object Detection and Tracking in 2020](https://blog.netcetera.com/object-detection-and-tracking-in-2020-f10fb6ff9af3)
