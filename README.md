@@ -61,6 +61,9 @@ Started recording these activities after I was comfortable with machine learning
 - [x] Blog: [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
 - [x] Article: [Weight decay: Regularization technique](https://d2l.ai/chapter_multilayer-perceptrons/weight-decay.html)
 
+**Autoencoders**
+- [X] Blog: [Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/)
+
 **Meta DL**
 - [ ] Paper: [Meta-Dataset: A dataset for datasets for learning to learn from few examples](https://arxiv.org/pdf/1903.03096.pdf)
 
@@ -72,6 +75,9 @@ Started recording these activities after I was comfortable with machine learning
 
 **Tokenization**
 - [x] Blog: [Tokenizers: How machines read](https://blog.floydhub.com/tokenization-nlp/)
+
+**Embedding**
+- [x] Blog: [Illustrated word2vec](https://jalammar.github.io/illustrated-word2vec/)
 
 **Conversational AI**
 - [ ] Playlist: [Rasa Masterclass](https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc)
